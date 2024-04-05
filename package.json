@@ -1,0 +1,28 @@
+{
+  "name": "selection-api",
+  "version": "1.0.0",
+  "description": "An abstraction to default JavaScript Selection API, to make it easy to work with selection elements and text nodes involved. Provides helpful utility functions.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thevrapi/selection_api.git"
+  },
+  "keywords": [
+    "selection",
+    "api",
+    "range"
+  ],
+  "author": "The Vrapi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thevrapi/selection_api/issues"
+  },
+  "homepage": "https://github.com/thevrapi/selection_api#readme"
+}
